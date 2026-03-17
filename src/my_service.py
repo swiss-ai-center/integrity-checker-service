@@ -155,4 +155,3 @@ class MyService(Service):
             return True
         except ValueError:
             return False
-
